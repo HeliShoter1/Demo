@@ -1,0 +1,1 @@
+SELECT * from qlbh.hoadon;
